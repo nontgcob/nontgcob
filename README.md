@@ -4,7 +4,7 @@ Hi 👋 My name is Nutnornont Chamadol
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [nontgcob.com](http://nontgcob.com)
 * ✉️  You can contact me at [nontc49@gmail.com](mailto:nontc49@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning JavaScript & ReactJS
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
