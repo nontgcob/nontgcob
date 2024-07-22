@@ -1,4 +1,4 @@
-Hi 👋 My name is Nutnornont Chamadol
+Hi 👋🏻 My name is Nutnornont Chamadol
 ====================================
 
 * 🌍  I'm based in Bangkok, Thailand
