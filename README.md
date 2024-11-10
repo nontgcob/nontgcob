@@ -1,4 +1,4 @@
-Hi 👋🏻 My name is Nutnornont Chamadol
+👋🏻 Hey! I'm Nont.
 ====================================
 
 🔭 I’m currently working on a precipitation prediction model for NECTEC as a Research Assistant Intern and a Data Science Intern.<br>
