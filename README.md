@@ -4,7 +4,7 @@ Hi 👋🏻 My name is Nutnornont Chamadol
 🔭 I’m currently working on a precipitation prediction model for NECTEC as a Research Assistant Intern and a Data Science Intern.<br>
 🌱 I’m learning VueJS, Go, and SwiftUI.<br>
 💬 Feel free to ask me about Natural Language Processing (NLP)!<br>
-⚡️ Fun fact: I use Figma to create slides for all of my presentations LOL<br>
+⚡️ Fun fact: I use Figma to create slides for almost all of my presentations LOL<br>
 
 ### Skills
 
