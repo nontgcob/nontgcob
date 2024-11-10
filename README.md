@@ -1,4 +1,4 @@
-👋🏻 Hey! I'm Nont.
+👋🏻 Hey! I'm Nutnornont.
 ====================================
 
 🔭 I’m currently working on a precipitation prediction model for NECTEC as a Research Assistant Intern and a Data Science Intern.<br>
