@@ -1,11 +1,10 @@
 Hi 👋🏻 My name is Nutnornont Chamadol
 ====================================
 
-* 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [nontgcob.com](http://nontgcob.com)
-* ✉️  You can contact me at [nontc49@gmail.com](mailto:nontc49@gmail.com)
-* 🧠  I'm learning JavaScript & AI
-* 🤝  I'm open to collaborating on interesting projects
+🔭 I’m currently working on a precipitation prediction model for NECTEC as a Research Assistant Intern and a Data Science Intern.
+🌱 I’m learning VueJS, Go, and SwiftUI.
+💬 Feel free to ask me about Natural Language Processing (NLP)!
+⚡️ Fun fact: I use Figma to create slides for all of my presentations LOL
 
 ### Skills
 
