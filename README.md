@@ -1,8 +1,8 @@
 👋🏻 Hey! I'm Nutnornont.
 ====================================
 
-🔭 I’m currently working on a precipitation prediction model for NECTEC as a Research Assistant Intern (doing Data Science stuff).<br>
-🌱 I’m learning Machine Learning & Deep Learning.<br>
+🔭 I’m a Research Assistant Intern at NECTEC building deep-learning models for weather prediction.<br>
+🌱 I’m learning Data Science & Deep Learning.<br>
 💬 Feel free to ask me about Natural Language Processing (NLP)!<br>
 ⚡️ Fun fact: I use Figma to create slides for almost all of my presentations LOL<br>
 
