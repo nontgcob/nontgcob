@@ -1,14 +1,13 @@
 👋🏻 Hey! I'm Nont.
 ====================================
 
-🔭 I’m a Student Research Assistant at HKU Tam Wing Fan Innovation Wing.
+📚 I’m a Student Research Assistant at HKU Tam Wing Fan Innovation Wing.
 
-Former Intern @ NECTEC (Student Research Assistant), VISTEC (Data Analyst), ViaBus (Product Design), LearnCloud (UX/UI)
-<br>
-🌱 I’m a freshman CS student at The University of Hong Kong (HKU)
-<br>
+🫡 Former Intern @ NECTEC (Student Research Assistant), VISTEC (Data Analyst), ViaBus (Product Design), LearnCloud (UX/UI)
+
+🇭🇰 I’m a freshman CS student at The University of Hong Kong (HKU)
+
 ⚡️ Fun fact: I use Figma to create slides for almost all of my presentations. It's just the best way to do it! LOL 🤣
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nutnornont) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mario-world) 
