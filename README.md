@@ -1,7 +1,7 @@
 👋🏻 Hey! I'm Nont.
 ====================================
 
-📚 I’m a Student Research Assistant at HKU Tam Wing Fan Innovation Wing.
+📚 I’m a Student Research Assistant at HKU Tam Wing Fan Innovation Wing
 
 🫡 Former Intern @ NECTEC (Student Research Assistant), VISTEC (Data Analyst), ViaBus (Product Design), LearnCloud (UX/UI)
 
